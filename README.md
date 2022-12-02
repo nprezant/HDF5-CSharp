@@ -111,7 +111,7 @@ var tree = Hdf5.ReadTreeFileStructure(fileName);
 var flat = Hdf5.ReadFlatFileStructure(fileName);
 ```
 
-in tree-like format you can drill inside the hierarchy of the file wile the flat option shows all the name is the groups and datasets.
+in tree-like format you can drill inside the hierarchy of the file while the flat option shows all the name is the groups and datasets.
 
 ![Flat tree](Assets/hdf5FlatStructure.jpg)
 
